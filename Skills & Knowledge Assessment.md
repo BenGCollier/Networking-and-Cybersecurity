@@ -1,19 +1,16 @@
 # Networking and Cybersecurity: Skills & Knowledge Assessment
 
 ## Strengths
-- Network analysis, whether analyzing my home network or a business network, was easy to interpret.
+- Network analytics came easy to interpret.
 - Nessus was particularly helpful in learning about and analyzing networks.
 - Tools such as Zenmap, Wireshark, and ShieldsUP! were easy to use and effective for running scans.
-- Creating and interpreting visualizations in this course was straightforward.
-- I retained much of the knowledge in this class due to my strong interest in the subject.
-- Using Python for coding tasks in this course made assignments easier to complete, understand, and interpret.
+- Creating and interpreting visualizations in CIDM 6356 course was straightforward.
 
 ## Weaknesses
 - Due to my inexperience in this subject, some terminology was difficult to grasp.
 - I was unable to analyze a large business network with multiple devices.
 - Zenmap scans took significantly longer than expected.
 - I struggled with the Daubert Standard assignment.
-- Certain sections of the Fraud Detection Handbook were difficult to comprehend.
 
 ## Wants/Wishes
 - Gain more experience with larger network environments and complex network topologies.
