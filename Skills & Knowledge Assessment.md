@@ -4,10 +4,10 @@
 - Network analytics came easy to interpret.
 - Nessus was particularly helpful in learning about and analyzing networks.
 - Tools such as Zenmap, Wireshark, and ShieldsUP! were easy to use and effective for running scans.
-- Creating and interpreting visualizations in CIDM 6356 course was straightforward.
+- Creating and interpreting visualizations in CIDM 6356 was straightforward.
 
 ## Weaknesses
-- Due to my inexperience in this subject, some terminology was difficult to grasp.
+- Due to my inexperience in networking, some terminology was difficult to grasp.
 - I was unable to analyze a large business network with multiple devices.
 - Zenmap scans took significantly longer than expected.
 - I struggled with the Daubert Standard assignment.
